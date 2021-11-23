@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=help.chm
+Contents file=ayudaCuenta.hhc
+Default Window=Ayudas Cuentas Contables
+Display compile progress=No
+Language=0xc0a Español (España, internacional)
+
+[WINDOWS]
+Ayudas Cuentas Contables="Ayuda","ayudaCuenta.hhc",,,"Ayuda-Cuenta-Contable.html",,,,,0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Ayuda-Cuenta-Contable.html
+
+[INFOTYPES]
+

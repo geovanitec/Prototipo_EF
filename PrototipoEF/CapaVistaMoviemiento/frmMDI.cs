@@ -16,5 +16,26 @@ namespace CapaVistaMoviemiento
         {
             InitializeComponent();
         }
+
+        private void mANTENIMIENTOCUENTACONTABLEToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCuenta abrir = new frmCuenta();
+            abrir.MdiParent = this;
+            abrir.Show();
+        }
+
+        private void mANTENIMIENTOCUENTABANCARIAToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCuentaBancaria abrir = new frmCuentaBancaria();
+            abrir.MdiParent = this;
+            abrir.Show();
+        }
+
+        private void mOVIMIENTOBANCARIOToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmMovimientoBancario abrir = new frmMovimientoBancario();
+            abrir.MdiParent = this;
+            abrir.Show();
+        }
     }
 }

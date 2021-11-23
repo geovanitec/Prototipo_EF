@@ -32,15 +32,15 @@ namespace CapaVistaMoviemiento
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.aBRIRToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cATALOGOSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mANTENIMIENTOCUENTACONTABLEToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mANTENIMIENTOCUENTABANCARIAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pROCESOSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mOVIMIENTOBANCARIOToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.iNFORMESToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hERRAMIENTASToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aYUDASToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mANTENIMIENTOCUENTACONTABLEToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mANTENIMIENTOCUENTABANCARIAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aYUDASToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.rEPORTESToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mOVIMIENTOBANCARIOToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -75,6 +75,20 @@ namespace CapaVistaMoviemiento
             this.cATALOGOSToolStripMenuItem.Size = new System.Drawing.Size(99, 23);
             this.cATALOGOSToolStripMenuItem.Text = "CATALOGOS";
             // 
+            // mANTENIMIENTOCUENTACONTABLEToolStripMenuItem
+            // 
+            this.mANTENIMIENTOCUENTACONTABLEToolStripMenuItem.Name = "mANTENIMIENTOCUENTACONTABLEToolStripMenuItem";
+            this.mANTENIMIENTOCUENTACONTABLEToolStripMenuItem.Size = new System.Drawing.Size(321, 24);
+            this.mANTENIMIENTOCUENTACONTABLEToolStripMenuItem.Text = "MANTENIMIENTO CUENTA CONTABLE";
+            this.mANTENIMIENTOCUENTACONTABLEToolStripMenuItem.Click += new System.EventHandler(this.mANTENIMIENTOCUENTACONTABLEToolStripMenuItem_Click);
+            // 
+            // mANTENIMIENTOCUENTABANCARIAToolStripMenuItem
+            // 
+            this.mANTENIMIENTOCUENTABANCARIAToolStripMenuItem.Name = "mANTENIMIENTOCUENTABANCARIAToolStripMenuItem";
+            this.mANTENIMIENTOCUENTABANCARIAToolStripMenuItem.Size = new System.Drawing.Size(321, 24);
+            this.mANTENIMIENTOCUENTABANCARIAToolStripMenuItem.Text = "MANTENIMIENTO CUENTA BANCARIA";
+            this.mANTENIMIENTOCUENTABANCARIAToolStripMenuItem.Click += new System.EventHandler(this.mANTENIMIENTOCUENTABANCARIAToolStripMenuItem_Click);
+            // 
             // pROCESOSToolStripMenuItem
             // 
             this.pROCESOSToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -82,6 +96,13 @@ namespace CapaVistaMoviemiento
             this.pROCESOSToolStripMenuItem.Name = "pROCESOSToolStripMenuItem";
             this.pROCESOSToolStripMenuItem.Size = new System.Drawing.Size(89, 23);
             this.pROCESOSToolStripMenuItem.Text = "PROCESOS";
+            // 
+            // mOVIMIENTOBANCARIOToolStripMenuItem
+            // 
+            this.mOVIMIENTOBANCARIOToolStripMenuItem.Name = "mOVIMIENTOBANCARIOToolStripMenuItem";
+            this.mOVIMIENTOBANCARIOToolStripMenuItem.Size = new System.Drawing.Size(248, 24);
+            this.mOVIMIENTOBANCARIOToolStripMenuItem.Text = "MOVIMIENTO BANCARIO ";
+            this.mOVIMIENTOBANCARIOToolStripMenuItem.Click += new System.EventHandler(this.mOVIMIENTOBANCARIOToolStripMenuItem_Click);
             // 
             // iNFORMESToolStripMenuItem
             // 
@@ -104,35 +125,17 @@ namespace CapaVistaMoviemiento
             this.aYUDASToolStripMenuItem.Size = new System.Drawing.Size(73, 23);
             this.aYUDASToolStripMenuItem.Text = "AYUDAS";
             // 
-            // mANTENIMIENTOCUENTACONTABLEToolStripMenuItem
-            // 
-            this.mANTENIMIENTOCUENTACONTABLEToolStripMenuItem.Name = "mANTENIMIENTOCUENTACONTABLEToolStripMenuItem";
-            this.mANTENIMIENTOCUENTACONTABLEToolStripMenuItem.Size = new System.Drawing.Size(321, 24);
-            this.mANTENIMIENTOCUENTACONTABLEToolStripMenuItem.Text = "MANTENIMIENTO CUENTA CONTABLE";
-            // 
-            // mANTENIMIENTOCUENTABANCARIAToolStripMenuItem
-            // 
-            this.mANTENIMIENTOCUENTABANCARIAToolStripMenuItem.Name = "mANTENIMIENTOCUENTABANCARIAToolStripMenuItem";
-            this.mANTENIMIENTOCUENTABANCARIAToolStripMenuItem.Size = new System.Drawing.Size(321, 24);
-            this.mANTENIMIENTOCUENTABANCARIAToolStripMenuItem.Text = "MANTENIMIENTO CUENTA BANCARIA";
-            // 
             // aYUDASToolStripMenuItem1
             // 
             this.aYUDASToolStripMenuItem1.Name = "aYUDASToolStripMenuItem1";
-            this.aYUDASToolStripMenuItem1.Size = new System.Drawing.Size(198, 24);
+            this.aYUDASToolStripMenuItem1.Size = new System.Drawing.Size(146, 24);
             this.aYUDASToolStripMenuItem1.Text = "AYUDAS";
             // 
             // rEPORTESToolStripMenuItem
             // 
             this.rEPORTESToolStripMenuItem.Name = "rEPORTESToolStripMenuItem";
-            this.rEPORTESToolStripMenuItem.Size = new System.Drawing.Size(198, 24);
+            this.rEPORTESToolStripMenuItem.Size = new System.Drawing.Size(146, 24);
             this.rEPORTESToolStripMenuItem.Text = "REPORTES";
-            // 
-            // mOVIMIENTOBANCARIOToolStripMenuItem
-            // 
-            this.mOVIMIENTOBANCARIOToolStripMenuItem.Name = "mOVIMIENTOBANCARIOToolStripMenuItem";
-            this.mOVIMIENTOBANCARIOToolStripMenuItem.Size = new System.Drawing.Size(248, 24);
-            this.mOVIMIENTOBANCARIOToolStripMenuItem.Text = "MOVIMIENTO BANCARIO ";
             // 
             // frmMDI
             // 
