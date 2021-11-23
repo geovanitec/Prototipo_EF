@@ -1,0 +1,11 @@
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\bin\Debug\CapaVistaMoviemiento.dll
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\bin\Debug\CapaVistaMoviemiento.pdb
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\obj\Debug\CapaVistaMoviemiento.csprojAssemblyReference.cache
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\obj\Debug\CapaVistaMoviemiento.csproj.CoreCompileInputs.cache
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\obj\Debug\CapaVistaMoviemiento.dll
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\obj\Debug\CapaVistaMoviemiento.pdb
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\bin\Debug\CapaControladorMovimiento.dll
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\bin\Debug\CapaControladorMovimiento.pdb
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\obj\Debug\CapaVistaMoviemiento.csproj.CopyComplete
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\obj\Debug\CapaVistaMoviemiento.frmMDI.resources
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaVistaMoviemiento\obj\Debug\CapaVistaMoviemiento.csproj.GenerateResource.cache

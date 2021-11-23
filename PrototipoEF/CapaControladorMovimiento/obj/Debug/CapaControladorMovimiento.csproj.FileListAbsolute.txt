@@ -1,0 +1,9 @@
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaControladorMovimiento\bin\Debug\CapaControladorMovimiento.dll
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaControladorMovimiento\bin\Debug\CapaControladorMovimiento.pdb
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaControladorMovimiento\obj\Debug\CapaControladorMovimiento.csprojAssemblyReference.cache
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaControladorMovimiento\obj\Debug\CapaControladorMovimiento.csproj.CoreCompileInputs.cache
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaControladorMovimiento\obj\Debug\CapaControladorMovimiento.dll
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaControladorMovimiento\obj\Debug\CapaControladorMovimiento.pdb
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaControladorMovimiento\bin\Debug\CapaModeloMovimiento.dll
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaControladorMovimiento\bin\Debug\CapaModeloMovimiento.pdb
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaControladorMovimiento\obj\Debug\CapaControladorMovimiento.csproj.CopyComplete

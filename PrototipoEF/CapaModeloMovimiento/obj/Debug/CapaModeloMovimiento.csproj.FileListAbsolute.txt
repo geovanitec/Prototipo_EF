@@ -1,0 +1,6 @@
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaModeloMovimiento\bin\Debug\CapaModeloMovimiento.dll
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaModeloMovimiento\bin\Debug\CapaModeloMovimiento.pdb
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaModeloMovimiento\obj\Debug\CapaModeloMovimiento.csprojAssemblyReference.cache
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaModeloMovimiento\obj\Debug\CapaModeloMovimiento.csproj.CoreCompileInputs.cache
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaModeloMovimiento\obj\Debug\CapaModeloMovimiento.dll
+C:\Users\geova\Escritorio\PrototipoEF\PrototipoEF\CapaModeloMovimiento\obj\Debug\CapaModeloMovimiento.pdb
